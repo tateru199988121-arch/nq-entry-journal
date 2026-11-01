@@ -1,0 +1,1 @@
+CREATE INDEX `idx_trade_entries_user_closed` ON `trade_entries` (`user_id`,`closed_at`);

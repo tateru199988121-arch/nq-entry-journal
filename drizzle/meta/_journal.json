@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791180419120,
+      "tag": "0000_dear_killmonger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791180981007,
+      "tag": "0001_rainy_silver_surfer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791184099304,
+      "tag": "0002_sad_unicorn",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791189861867,
+      "tag": "0003_silly_gressill",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791190493760,
+      "tag": "0004_reflective_quicksilver",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791191015367,
+      "tag": "0005_confirmed_trade_correction",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1791202540530,
+      "tag": "0006_panoramic_puck",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1791437525939,
+      "tag": "0007_foamy_marvel_boy",
+      "breakpoints": true
+    }
+  ]
+}

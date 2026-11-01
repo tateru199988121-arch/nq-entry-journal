@@ -1,0 +1,2 @@
+# Copy to .dev.vars and set the email used to sign in as the journal owner.
+OWNER_EMAIL="owner@example.com"

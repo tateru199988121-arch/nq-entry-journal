@@ -1,0 +1,1 @@
+ALTER TABLE `trade_entries` ADD `updated_at` text;
